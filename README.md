@@ -44,7 +44,7 @@ RotaryEncoder.onRotateEvent(RotationDirection.Right, () => {
 })
 ```
 
-## Example: Number input
+## 案例: Number input
 The follow code creates a number input that can be adjusted by turning the encoder.
 
 ```blocks
@@ -63,8 +63,13 @@ RotaryEncoder.onPressEvent(() => {
     basic.showString("selected!")
 })
 ```
+## 授权方式
 
-## Supported targets
+MIT
+
+湖南创乐博智能科技有限公司
+
+## 支持硬件
 
  * for PXT/microbit
  
