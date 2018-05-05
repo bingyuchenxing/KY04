@@ -1,8 +1,9 @@
-# KY040 Rotary Encoder MakeCode Package [![Build Status](https://travis-ci.org/Tinkertanker/pxt-ky040-microbit.svg?branch=master)](https://travis-ci.org/Tinkertanker/pxt-ky040-microbit)
+# KY040 旋转编码器 MakeCode Package 
 
-This is the MakeCode package for the KY-040 rotary encoder.
 
-## Hardware Setup
+这个包是KY040旋转编码器的MakeCode库
+
+## 硬件连接
 1. Connect the appropriate pins (CLK, DT, SW, GND) to the micro:bit.
 
 ## Blocks
